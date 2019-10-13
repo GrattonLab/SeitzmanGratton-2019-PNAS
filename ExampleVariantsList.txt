@@ -1,0 +1,1 @@
+/your/path/here/networkVariants_thresh10%_sizeThresh30.dtseries.nii

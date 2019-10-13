@@ -1,0 +1,1 @@
+ExampleSubNum /your/path/here/ExampleSubNum_surfaceTimecourse.dtseries.nii
